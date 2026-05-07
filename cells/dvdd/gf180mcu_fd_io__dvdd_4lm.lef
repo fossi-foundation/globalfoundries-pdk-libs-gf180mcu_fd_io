@@ -24,6 +24,10 @@ MACRO gf180mcu_fd_io__dvdd
     USE POWER ;
     PORT
       LAYER Metal4 ;
+        RECT 7.500 2.000 67.500 62.000 ;
+    END
+    PORT
+      LAYER Metal4 ;
         RECT 74 118 75 125 ;
     END
     PORT

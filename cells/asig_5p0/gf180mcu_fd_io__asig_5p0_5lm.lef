@@ -23,6 +23,10 @@ MACRO gf180mcu_fd_io__asig_5p0
     DIRECTION INOUT ;
     USE SIGNAL ;
     PORT
+      LAYER Metal5 ;
+        RECT 7.500 2.000 67.500 62.000 ;
+    END
+    PORT
         CLASS CORE ;
       LAYER Metal2 ;
         RECT 57.12 349 59.66 350 ;
