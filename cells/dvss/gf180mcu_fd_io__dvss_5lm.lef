@@ -24,6 +24,10 @@ MACRO gf180mcu_fd_io__dvss
     USE GROUND ;
     PORT
       LAYER Metal5 ;
+        RECT 7.500 2.000 67.500 62.000 ;
+    END
+    PORT
+      LAYER Metal5 ;
         RECT 74 102 75 117 ;
     END
     PORT
