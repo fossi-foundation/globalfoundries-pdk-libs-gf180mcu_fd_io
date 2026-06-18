@@ -18,8 +18,8 @@ L 7 130 0 150 0 {}
 L 7 30 50 30 70 {}
 L 7 -10 -70 -10 -50 {}
 L 7 -10 50 -10 70 {}
-B 5 -12.5 -72.5 -7.5 -67.5 {name=DVDD dir=inout}
 B 5 147.5 -2.5 152.5 2.5 {name=ASIG5V dir=inout}
+B 5 -12.5 -72.5 -7.5 -67.5 {name=DVDD dir=inout}
 B 5 -12.5 67.5 -7.5 72.5 {name=DVSS dir=inout}
 B 5 27.5 -72.5 32.5 -67.5 {name=VDD dir=inout}
 B 5 27.5 67.5 32.5 72.5 {name=VSS dir=inout}
